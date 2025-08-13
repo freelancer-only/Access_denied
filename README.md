@@ -1,2 +1,2 @@
 # Access_denied
-Hang the signals in nearby area.
+Hang the network signals in nearby area.
